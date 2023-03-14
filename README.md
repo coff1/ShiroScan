@@ -1,10 +1,12 @@
 
+Shiro&lt;=1.2.4反序列化，一键检测工具  
+
 增加批量检测脚本  
 shiro_rce_s  <target.txt|target>  <domain_of_dnslog>  
 dns外带漏洞url
 使用
 decode_url <code> 解码成原始url  
-Shiro&lt;=1.2.4反序列化，一键检测工具
+
 
     2021·1·15:
     改动内容：1.删除CC8利用链
